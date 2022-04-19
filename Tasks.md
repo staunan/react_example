@@ -1,0 +1,2 @@
+1. Create a Component that shows a running clock. The format should be like 10:15:30:125, where 10 specifies hours, 15 specifies minutes, 30 specifies second and 125 specifies milliseconds.
+2. Upon clicking on the clock, the clock text color should change. (Hint: create an array of 5 colors).
